@@ -2,8 +2,8 @@
 1. Flowchart menghitung keliling dan luas persegi panjang\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(62).png) 
 Pertama untuk membuat flowchart klik tanda panah pada flow,maka akan keluar menu statement,seperti pada gambar di atas.Dan untuk membuat flowchart keliling dan Luas persegi panjang,maka:\
-1.Untuk membuat flow integer silahkan klik Declare. \
-2.klik output untuk buat outputnya. \
+1.Untuk membuat flow integer silahkan klik Declare dan ketikkan nama variabelnya. \
+2.klik output untuk buat flowchart outputnya lalu ketikkan outputnya\
 3.klik input untuk buat perintah inputnya. \
 4.klik Assign untuk membuat Rumus dari Keliling dan Luas persegi panjang.\
 Jadi,ini flowchart untuk mencari keliling dan luas persegi panjang yg sudah saya praktikkan:\
@@ -16,11 +16,18 @@ Dan code yang terbentuk sudah saya ketikkan ulang dan dieksekusi di vscode:\
 a. Reamur ke Celcius\
 Ini flowchart untuk mengkonversi reamur ke celcius yang sudah saya praktikkan:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(50).png) 
-Untuk memakai type Real,silahkan klik panah kemudian klik declare dan pilih real.Juga untuk memasukkan rumusnya klik assign\
+Untuk memakai type Real,silahkan klik panah kemudian klik declare dan pilih real.Juga untuk memasukkan rumusnya klik assign.\
 Untuk code(.py) yang terbentuk dari flowchart tersebut:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(51).png) 
 Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vscode seperti berikut. 
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(52).png) 
+b. Fahrenheit ke Celcius\
+Ini flowchart untuk mengkonversi Fahrenheit ke Celcius yang sudah saya praktikkan:\
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(53).png) 
+Metode membuat flowchartnya masih sama dengan yang bagian a(reamur ke Celcius).\
+Untuk code(.py) yang terbentuk sebagai berikut:\
+![image](
+
 
 
 
