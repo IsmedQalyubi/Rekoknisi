@@ -28,6 +28,9 @@ Metode membuat flowchartnya masih sama dengan yang bagian a(reamur ke Celcius).H
 Untuk code(.py) yang terbentuk sebagai berikut:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(54).png) 
 Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vscode seperti berikut.\
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(55).png) 
+c. Celcius ke Reamur\
+Ini flowchart untuk mengkonversi Celcius  ke Reamur yang sudah saya praktikkan dan jalankan:\
 
 
 
