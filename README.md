@@ -7,4 +7,4 @@ Pertama untuk membuat flowchart klik tanda panah pada flow,maka akan keluar menu
 3.klik input untuk buat perintah inputnya. \
 4.klik Assign untuk membuat Rumus dari Keliling dan Luas persegi panjang.\
 Jadi,ini flowchart untuk mencari keliling dan luas persegi panjang yg sudah saya praktikkan:\
-![image](
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(46).png) 
