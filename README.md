@@ -37,6 +37,9 @@ Untuk code(.py) yang terbentuk sebagai berikut:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(57).png) 
 Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vscode hasilnya seperti berikut.\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(58).png) 
+d. Celcius ke Fahrenheit\
+Ini flowchart untuk mengkonversi Celcius  ke Reamur yang sudah saya praktikkan dan jalankan:\
+![image](
 
 
 
