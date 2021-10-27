@@ -24,9 +24,12 @@ Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ul
 b. Fahrenheit ke Celcius\
 Ini flowchart untuk mengkonversi Fahrenheit ke Celcius yang sudah saya praktikkan:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(53).png) 
-Metode membuat flowchartnya masih sama dengan yang bagian a(reamur ke Celcius).\
+Metode membuat flowchartnya masih sama dengan yang bagian a(reamur ke Celcius).Hanya saja berbeda rumus\
 Untuk code(.py) yang terbentuk sebagai berikut:\
-![image](
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(54).png) 
+Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vscode seperti berikut.\
+
+
 
 
 
