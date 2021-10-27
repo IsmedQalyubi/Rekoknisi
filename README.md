@@ -10,7 +10,7 @@ Jadi,ini flowchart untuk mencari keliling dan luas persegi panjang yg sudah saya
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(46).png) 
 Dan untuk mencari code yg terbentuk klik menu pada bagian atas yang paling kanan,maka akan keluar code yang terbentuk dan pilih untuk PL python. Code(.py) yang terbentuk dari flowchart tersebut:
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(48).png) 
-Dan code yang terbentuk sudah saya ketikkan ulang dan dieksekusi di vs code:\
+Dan code yang terbentuk sudah saya ketikkan ulang dan dieksekusi di vscode:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(49).png) 
 2. Flowchart conversi suhu\
 a. Reamur ke Celcius\
@@ -19,8 +19,8 @@ Ini flowchart untuk mengkonversi reamur ke celcius yang sudah saya praktikkan:\
 Untuk memakai type Real,silahkan klik panah kemudian klik declare dan pilih real.Juga untuk memasukkan rumusnya klik assign\
 Untuk code(.py) yang terbentuk dari flowchart tersebut:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(51).png) 
-Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vs code seperti berikut. 
-![image](
+Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vscode seperti berikut. 
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(52).png) 
 
 
 
