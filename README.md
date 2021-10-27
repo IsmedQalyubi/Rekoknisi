@@ -16,9 +16,13 @@ Dan code yang terbentuk sudah saya ketikkan ulang dan dieksekusi di vs code:\
 a. Reamur ke Celcius\
 Ini flowchart untuk mengkonversi reamur ke celcius yang sudah saya praktikkan:\
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(50).png) 
-Untuk memakai type Real,silahkan klik panah kemudian klik declare dan pilih real.\
+Untuk memakai type Real,silahkan klik panah kemudian klik declare dan pilih real.Juga untuk memasukkan rumusnya klik assign\
 Untuk code(.py) yang terbentuk dari flowchart tersebut:\
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(51).png) 
+Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vs code seperti berikut. 
 ![image](
+
+
 
 
 
