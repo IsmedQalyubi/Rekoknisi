@@ -10,6 +10,9 @@ Jadi,ini flowchart untuk mencari keliling dan luas persegi panjang yg sudah saya
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(46).png) 
 Dan untuk mencari code yg terbentuk klik menu pada bagian atas yang paling kanan,maka akan keluar code yang terbentuk dan pilih untuk PL python. Code(.py) yang terbentuk dari flowchart tersebut:
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(48).png) 
-Dan code yang terbentuk sudah saya ketikkan ulang di vs code:\
-![image](
+Dan code yang terbentuk sudah saya ketikkan ulang dan dieksekusi di vs code:\
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(49).png) 
+2. Flowchart conversi suhu\
+a. Reamur ke Celcius\
+
 
