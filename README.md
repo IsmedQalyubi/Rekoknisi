@@ -42,6 +42,8 @@ Ini flowchart untuk mengkonversi Celcius  ke Reamur yang sudah saya praktikkan d
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(59).png) 
 Metode membuat flowchartnya masih sama dengan yang sebelumnya.\
 Untuk code(.py) yang terbentuk sebagai berikut:\
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(60).png) 
+Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ulang dan eksekusi di Vscode hasilnya seperti berikut.\
 
 
 
