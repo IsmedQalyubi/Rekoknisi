@@ -39,7 +39,9 @@ Kemudian Code(.py) yang terbentuk dari flowchart tersebut sudah saya ketikkan ul
 ![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(58).png) 
 d. Celcius ke Fahrenheit\
 Ini flowchart untuk mengkonversi Celcius  ke Reamur yang sudah saya praktikkan dan jalankan:\
-![image](
+![image](https://github.com/IsmedQalyubi/Rekoknisi/blob/main/Screenshot%20(59).png) 
+Metode membuat flowchartnya masih sama dengan yang sebelumnya.\
+Untuk code(.py) yang terbentuk sebagai berikut:\
 
 
 
